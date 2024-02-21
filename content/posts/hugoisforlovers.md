@@ -1,19 +1,15 @@
 +++
-title = "Getting Started with Hugo"
+author = "Vaibhav Agarwal"
+title = "About me AGAIN"
 description = ""
-tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-]
-date = "2014-04-02"
-categories = [
-    "Development",
-    "golang",
-]
-image = "/images/stuck.jpg"
+date = "2024-02-17"
+image = '/images/stuck.png'
 +++
+
+
+
+Here is a bit about me. 4 sections was looking odd :)
+<!--more-->
 
 ## Step 1. Install Hugo
 

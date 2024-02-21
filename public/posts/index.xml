@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Motivation for this Traineeship</title>
       <link>https://example.org/posts/emoji-support/</link>
@@ -42,13 +42,6 @@
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://example.org/posts/migrate-from-jekyll/</guid>
       <description>&lt;p&gt;One requirement for the traineeship was taking interviews, I have made a demo interview video!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://example.org/pages/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/pages/about/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
