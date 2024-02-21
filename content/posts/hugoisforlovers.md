@@ -11,80 +11,13 @@ image = '/images/stuck.png'
 Here is a bit about me. 4 sections was looking odd :)
 <!--more-->
 
-## Step 1. Install Hugo
+To be honest, I believe this section was not required. We have had so many interactions, and I have talked about myself, as well as have had interesting conversations with you on Friday Coffee sessions. The main reason for me to include this section was to maintain the layout of the website, i.e., 1, 2+2 format, and I was unable to think of what to include in the last section, hence, here we go – this is a section, well, about me.
 
-Go to [Hugo releases](https://github.com/spf13/hugo/releases) and download the
-appropriate version for your OS and architecture.
+I thought it would be interesting to give this section a twist! I have been learning Finnish for some months now and I guess I can take up the challenge to write a short introduction about myself in Finnish without using chatGPT and only taking help from google translate when necessary !!
 
-Save it somewhere specific as we will be using it in the next step.
-
-More complete instructions are available at [Install Hugo](https://gohugo.io/getting-started/installing/)
-
-## Step 2. Build the Docs
-
-Hugo has its own example site which happens to also be the documentation site
-you are reading right now.
-
-Follow the following steps:
-
- 1. Clone the [Hugo repository](http://github.com/spf13/hugo)
- 2. Go into the repo
- 3. Run hugo in server mode and build the docs
- 4. Open your browser to http://localhost:1313
-
-Corresponding pseudo commands:
-
-```shell
-    git clone https://github.com/spf13/hugo
-    cd hugo
-    /path/to/where/you/installed/hugo server --source=./docs
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Press ctrl+c to stop
-```
-
-Once you've gotten here, follow along the rest of this page on your local build.
-
-## Step 3. Change the docs site
-
-Stop the Hugo process by hitting Ctrl+C.
-
-Now we are going to run hugo again, but this time with hugo in watch mode.
-
-```shell
-    /path/to/hugo/from/step/1/hugo server --source=./docs --watch
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Watching for changes in /Users/spf13/Code/hugo/docs/content
-    > Press ctrl+c to stop
-```
-
-Open your [favorite editor](http://vim.spf13.com) and change one of the source
-content pages. How about changing this very file to *fix the typo*. How about changing this very file to *fix the typo*.
-
-Content files are found in `docs/content/`. Unless otherwise specified, files
-are located at the same relative location as the url, in our case
-`docs/content/overview/quickstart.md`.
-
-Change and save this file.. Notice what happened in your terminal.
-
-```shell
-    > Change detected, rebuilding site
-
-    > 29 pages created
-    > 0 tags index created
-    > in 26 ms
-```
-
-Refresh the browser and observe that the typo is now fixed.
-
-Notice how quick that was. Try to refresh the site before it's finished building. I double dare you.
-Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.
-
-## Step 4. Have fun
-
-The best way to learn something is to play with it.
+> Moi! Minä olen Vaibhav Agarwal. Minä olen 21 vuotta ja Minä tykkään
+programming. Minä olen kotoisin Bangaloresta, Intiasta, mutta minä asun
+Helsingissä. Olen opiskelija Helsingin yliopistossa ja opiskelen sosiaalinen
+Datatiede. Minä pidän sosiaalinen Datatiede kurssi (plural). Minä tykkään suomen ruoka mutta en hyvin kylmä päivä. 
+Nähdään, ensi perjantai 
+Moi moi.
