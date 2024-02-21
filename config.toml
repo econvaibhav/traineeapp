@@ -1,0 +1,6 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Vaibhav Traineeship Application"
+theme = "newsroom"
+description = "Traineeship application"
+author = "Vaibhav Agarwal"
