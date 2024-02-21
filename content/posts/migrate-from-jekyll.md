@@ -12,3 +12,4 @@ One requirement for the traineeship was taking interviews, I have made a demo in
 
 Here is a small demo interview I set up. I am the interviee as well as the interviewer. I created an imaginary fair for science fiction enthusiasts. I recording the video from 2 angles using my phone and edited it using the video editing software-- LumaFusion.
 
+<This will be uploaded by 22nd January. Sorry for the delay :(>
